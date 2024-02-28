@@ -1,0 +1,298 @@
+{
+"loginPage" : {
+    "1_user" : {
+        "x" : 983,
+        "y" : 724
+    },
+    "2_user" : {
+        "x" : 964,
+        "y" : 908
+    },
+    "0" : {
+        "x" : 971,
+        "y" : 1089
+    },
+    "1" : {
+        "x" : 808,
+        "y" : 786
+    },
+    "2" : {
+        "x" : 968,
+        "y" : 786
+    },
+    "3" : {
+        "x" : 1125,
+        "y" : 786
+    },
+    "4" : {
+        "x" : 809,
+        "y" : 889
+    },
+    "5" : {
+        "x" : 966,
+        "y" : 889
+    },
+    "6" : {
+        "x" : 1115,
+        "y" : 889
+    },
+    "7" : {
+        "x" : 802,
+        "y" : 988
+    },
+    "8" : {
+        "x" : 961,
+        "y" : 988
+    },
+    "9" : {
+        "x" : 1107,
+        "y" : 988
+    },
+    "login_btn" : {
+        "x" : 1135,
+        "y" : 1089
+    }
+},
+
+"navBar" : {
+    "settingIcon" : {
+        "x" : 52,
+        "y" : 174
+    },
+    "measureIcon" : {
+        "x" : 59,
+        "y" : 386
+    }
+},
+
+"settingsPage" : {
+    "calib_icon" : {
+        "x" : 509,
+        "y" : 282
+    },
+    "unit_icon" : {
+        "x" : 1006,
+        "y" : 270
+    },"scale_icon" : {
+        "x" : 1527,
+        "y" : 270
+    },
+    "barcode_icon" : {
+        "x" : 1515,
+        "y" : 623
+    },
+    "config_icon" : {
+        "x" : 1021,
+        "y" : 974,
+
+        "Metrological_icon" : {
+            "x" : 438,
+            "y" : 493
+        },
+        "calibSettings_icon" : {
+            "x" : 1004,
+            "y" : 446
+        },
+        "sysSettings_icon" : {
+            "x" : 1035,
+            "y" : 871
+        }
+    }
+},
+
+"scalePage" : {
+    "scale_dropDown" : {
+        "x" : 1550,
+        "y" : 400
+    },
+    "bc60_scale" : {
+        "x" : 1550,
+        "y" : 212
+    },
+    "easseDS_scale" : {
+        "x" : 1550,
+        "y" : 540
+    },
+    "fairbanks_scale" : {
+        "x" : 1550,
+        "y" : 775
+    },
+    "dymo" : {
+        "x" : 1550,
+        "y" : 704
+    },
+    "scaleUnits_dropdown" : {
+        "x" : 1480,
+        "y" : 550
+    },
+    "lb-oz" : {
+        "x" : 1495,
+        "y" : 720
+    },
+    "kg" : {
+        "x" : 1523,
+        "y" : 888
+    },
+    "save_btn" : {
+        "x" : 1726,
+        "y" : 1101
+    }
+},
+
+"unitsPage" : {
+    "mUnits_dropdown" : {
+        "x" : 1612,
+        "y" : 642
+    },
+    "cm-kg" : {
+        "x" : 1644,
+        "y" : 723
+    },
+    "inch-lb" : {
+        "x" : 1644,
+        "y" : 799
+    },
+    "cm-gram" : {
+        "x" : 1644,
+        "y" : 889
+    },
+    "inch-kg" : {
+        "x" : 1560,
+        "y" : 935
+    },
+    "inch-lb-oz" : {
+        "x" : 1560,
+        "y" : 1029
+    },
+    "mm-gram" : {
+        "x" : 1560,
+        "y" : 1137
+    },
+    "save_btn" : {
+        "x" : 1726,
+        "y" : 1101
+    }
+},
+
+"calibPage" : {
+    "1.1" : {
+        "x" : 692,
+        "y" : 420
+    },
+    "E1.1" : {
+        "x" : 739,
+        "y" : 630
+    },
+    "1.5" : {
+        "x" : 714,
+        "y" : 832
+    },
+    "2.2" : {
+        "x" : 710,
+        "y" : 1047
+    },
+    "confirmBtn" : {
+        "x" : 1309,
+        "y" : 782
+    },
+    "close_btn" : {
+        "x" : 1299,
+        "y" : 746
+    }
+},
+
+"barcodePage" : {
+    "barcode_dropdown" : {
+        "x" : 1493,
+        "y" : 388
+    },
+    "none" : {
+        "x" : 1429,
+        "y" : 485
+    },
+    "zebra_barcode" : {
+        "x" : 1429,
+        "y" : 557
+    },
+    "HID_barcode" : {
+        "x" : 1429,
+        "y" : 640
+    }
+
+},
+
+"MetrologicalSettings" : {
+    "metrologicalStandard_dropdown" : {
+        "x" : 1575,
+        "y" : 334
+    },
+    "default" : {
+        "x" : 1575,
+        "Y" : 424
+    },
+    "raw" : {
+        "x" : 1575,
+        "Y" : 515
+    },
+    "NTEP" : {
+        "x" : 1575,
+        "y" : 592
+    }
+},
+
+"calibSettings" : {
+    "calibType_dropdown" : {
+        "x" : 1575,
+        "y" : 334
+    },
+    "legacy" : {
+        "x" : 1575,
+        "Y" : 424
+    },
+    "marker_based" : {
+        "x" : 1575,
+        "Y" : 515
+    },
+    "region_based" : {
+        "x" : 1575,
+        "y" : 592
+    }
+},
+
+"addImages" : {
+    "captureBtn" : {
+        "x" : 1413,
+        "y" : 1101
+    }
+},
+
+"measurementVideo" : {
+    "status" : false,
+    "duration" : 30,
+    "startBtn" : {
+        "x" : 583,
+        "y" : 814
+    },
+    "stopBtn" : {
+        "x" : 568,
+        "y" : 1035
+    }
+},
+
+"measurementPage" : {
+    "barcodeStatus" : false,
+    "measureBtn" : {
+        "x" : 1619,
+        "y" : 1077
+    },
+    "barcodeField" : {
+    	"x" : 934,
+        "y" : 794
+    },
+    "confirmBtn" : {
+        "x" : 1305,
+        "y" : 684
+    }
+}
+
+}

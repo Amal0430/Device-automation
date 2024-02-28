@@ -1,0 +1,17 @@
+{
+"addImages" : {
+    "status" : true,
+    "count" : 3
+},
+
+"measurementVideo" : {
+    "status" : false,
+    "duration" : 30
+},
+
+"measurementPage" : {
+    "barcodeStatus" : false,
+    "barcodeValue" : "qaTest"
+}
+
+}
